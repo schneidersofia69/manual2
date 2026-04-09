@@ -14,12 +14,12 @@ La página incluye:
 
 📖 Consejos de supervivencia organizados por temas:
 
-  Ambiente
-  Refugio
-  Agua y fuego
-  Plantas y comida
-  Animales
-  Herramientas y armas
+  Ambiente,
+  Refugio,
+  Agua y Fuego,
+  Plantas y Comida,
+  Animales y
+  Herramientas y Armas
 📊 Tabla de prioridades de supervivencia
 🖼️ Imagen ilustrativa
 📩 Formulario de contacto
@@ -44,12 +44,6 @@ Aplicar los conocimientos de estructura semántica en HTML y el uso de control d
 
 👤 Autor
 Schneider Sofía
-
----
-
-🔗 Repositorio
-
-
 
 ---
 
