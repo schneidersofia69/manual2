@@ -51,3 +51,19 @@ article{
 article:hover{
     transform: translate(-5px);
 }
+.boton-arriba{
+    display: block;
+    width: 200px;
+    margin: 40px auto;
+    text-align: center;
+    background-color: #5ea342;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 12px;
+    transition: 0.3s;
+}
+.boton-arriba:hover{
+    background-color: #4a8a35;
+    transform: scale(1.05);
+}
