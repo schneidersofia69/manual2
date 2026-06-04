@@ -19,3 +19,21 @@ body{
     align-items: center;
     justify-content: center;
 }
+
+.menu{
+    background-color: #5ea342;
+    padding: 15px;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    gap: 30px;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
