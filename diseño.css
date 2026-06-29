@@ -67,3 +67,27 @@ article:hover{
     background-color: #4a8a35;
     transform: scale(1.05);
 }
+
+#consejo-aleatorio{
+    text-align:center;
+    margin:40px 0;
+}
+
+#btnConsejo{
+    background-color: #4a8a35;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+#btnConsejo:hover{
+    background-color: #80ca6e;
+}
+
+#textoConsejo{
+    margin-top: 20px;
+    font-weight: bold;
+}
