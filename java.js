@@ -17,3 +17,23 @@ function mostrarConsejo(){
 }
 
 botonConsejo.addEventListener("click", mostrarConsejo);
+
+const elementos =
+document.querySelectorAll ("#mochila input");
+const listaMochila =
+    document.getElementById("listaMochila");
+const btnMochila = 
+    document.getElementById("btnMochila");
+
+function actualizarMochila(){
+    listaMochila.innerHTML ="";
+    elementos.forEach(function(item){
+        if (item.checked){
+            const li = document.createElement("li");
+            li.textContent = "✅" + item.value;
+            listaMochila.appendChild(li);
+        }
+    });
+}
+
+btnMochila.addEventListener("click", actualizarMochila);

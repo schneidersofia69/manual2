@@ -91,3 +91,42 @@ article:hover{
     margin-top: 20px;
     font-weight: bold;
 }
+
+#mochila{
+    text-align: center;
+    margin: 40px 0;
+}
+
+#mochila label{
+    display: block;
+    margin: 10px;
+}
+
+#listaMochila{
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+#listaMochila li{
+    background-color: #c7ffb7;
+    margin: 8px auto;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#btnMochila{
+    background-color: #4a8a35;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .3s;
+    margin-top: 20px;
+}
+
+#btnMOchila:hover{
+    background-color: #80ca6e;
+}
