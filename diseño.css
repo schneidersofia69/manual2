@@ -130,3 +130,61 @@ article:hover{
 #btnMOchila:hover{
     background-color: #80ca6e;
 }
+
+body.modoOscuro{
+    background-color: #0b1d2a;
+    color: #000000;
+}
+
+body.contenedorOscuro{
+    background-color: #1e2d24;
+    color: white;
+}
+
+body.menuOscuro{
+    background-color: #16232f;
+}
+
+body.menuOscuro a{
+    color: white;
+}
+
+body.menuOscuro a:hover{
+    color: #9ee493;
+}
+
+body.modoOscuro article{
+    background-color: #2b3d33;
+    color: white;
+}
+
+body.modoOscuro table{
+    background-color: #2b3d33;
+    color: white;
+}
+
+body.modoOscuro th{
+    background-color: #203126;
+}
+
+body.modoOscuro td,
+body.modoOscuro th{
+    border: 1px solid white;
+}
+
+body.modoOscuro button,
+body.modoOscuro.boton-arriba{
+    background-color: #355c45;
+    color: white;
+}
+
+body.modoOscuro button:hover,
+body.modoOscuro .boton-arriba:hover{
+    background-color: #4b7a5f;
+}
+
+body.modoOscuro h1,
+body.modoOscuro h2,
+body.modoOscuro h3{
+    color: #9592bb;
+}

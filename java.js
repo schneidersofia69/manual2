@@ -37,3 +37,16 @@ function actualizarMochila(){
 }
 
 btnMochila.addEventListener("click", actualizarMochila);
+
+const btnTema =
+document.getElementById("btnTema");
+
+function cambiarTema(){
+    document.body.classList.toggle("modoOscuro");
+    if(document.body.classList.contains("modoOscuro")){
+        btnTema.textContent = "☀️ Cambiar a modo dia"
+    }else{
+                btnTema.textContent = "🌙 Cambiar a modo noche"
+    }
+}
+btnTema.addEventListener("click", cambiarTema);
