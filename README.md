@@ -25,6 +25,12 @@ La página incluye:
 📩 Formulario de contacto
 🎥 Contenido multimedia (iframe)
 
+Incluye botones como:
+  Volver al inicio de la pagina
+  Boton de consejos aleatorios
+  Boton para cambiar entre modo claro y oscuro
+  El usuario puede seleccionar mediante checkbox que herramientas puede llevar y luego verlas en su mochila
+
 ---
 
 🛠️ Tecnologías utilizadas
